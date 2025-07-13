@@ -21,7 +21,7 @@ ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // make true to know who dismiss or promoted a member in group  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://ibb.co/fGCGnzqT",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.postimg.cc/Hx9Rx94F/IMG-20250714-015950.jpg",
 // add custom menu and mention reply image url   
 BOT_NAME: process.env.BOT_NAME || "SHABAN-MD V5",
 // add bot namw here for menu
